@@ -2,7 +2,7 @@
   "name": "library",
   "version": "1.0.0",
   "description": "webpack_study",
-  "main": "index.js",
+  "main": "./dist/library.js",
   "scripts": {
     "build": "webpack"
   },
